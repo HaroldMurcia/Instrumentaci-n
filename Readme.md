@@ -12,6 +12,7 @@ git clone https://github.com/HaroldMurcia/3D-plantModeling-with-2DLiDAR.git
 
 ## Sessions
 * [Acquisition and adaptation of signals](https://drive.google.com/file/d/14vZBwxAbS3tiV4M48MQ2At4hIPCIf07M/view?usp=sharing)
+* [Percepción](https://drive.google.com/file/d/1REVm1Vzlas9GMnnF0G0riAON4a3HgOri/view?usp=sharing)
 
 
 ## Contact

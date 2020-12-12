@@ -30,32 +30,32 @@ figure(1)
 subplot(231)
     plot(t,Resp)
     grid on
-    xlabel('samples')
+    xlabel('time')
     ylabel('Resp')
 subplot(232)
     plot(t,ECG_1)
     grid on
-    xlabel('samples')
+    xlabel('time')
     ylabel('ECG I')
 subplot(233)
     plot(t,ECG_5)
     grid on
-    xlabel('samples')
+    xlabel('time')
     ylabel('ECG V')
 subplot(234)
     plot(t,ECG_2)
     grid on
-    xlabel('samples')
+    xlabel('time')
     ylabel('ECG II')
 subplot(235)
     plot(t,PLETH)
     grid on
-    xlabel('samples')
+    xlabel('time')
     ylabel('PLETH')
 subplot(236)
     plot(t,ABP)
     grid on
-    xlabel('samples')
+    xlabel('time')
     ylabel('ABP')
 
 %% ECG I Case

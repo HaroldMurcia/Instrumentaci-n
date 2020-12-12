@@ -8,9 +8,9 @@
 % White noise
 
 clear all; clc; close all;
-L=4; %Sample length for the random signal
-mu=0;
-sigma=10;
+L=1000; %Sample length for the random signal
+mu=10;
+sigma=0.5;
 X=sigma*randn(L,1)+mu;
 
 figure();
